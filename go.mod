@@ -9,7 +9,7 @@ require (
 	github.com/containerd/containerd v1.6.6
 	github.com/docker/cli v20.10.17+incompatible // v22.06.x - see "replace" for the actual version
 	github.com/docker/cli-docs-tool v0.5.0
-	github.com/docker/distribution v2.8.1+incompatible
+	github.com/docker/distribution v2.8.2+incompatible
 	github.com/docker/docker v20.10.17+incompatible // v22.06.x - see "replace" for the actual version
 	github.com/docker/go-units v0.5.0
 	github.com/gofrs/flock v0.7.3
